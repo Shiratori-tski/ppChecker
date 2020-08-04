@@ -1,2 +1,2 @@
 # ppChecker
-compares pp from ppv2 system with StaR's rebalanced pp
+compares pp from ppv2 system with StanR's rebalanced pp
